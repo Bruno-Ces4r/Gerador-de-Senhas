@@ -1,5 +1,6 @@
 # Gerador-de-Senhas
 Gerador de Senhas, usando Js, Node_Modules, HTML e CSS
+<br>
 Obs: Tem que inciar o Node_Modules caso tenha interesse em testar este projeto!
 
 <br>
