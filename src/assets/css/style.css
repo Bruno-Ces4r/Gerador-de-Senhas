@@ -1,0 +1,44 @@
+body{
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+
+.div-one{
+    background-color: white;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.div-one h1{
+    margin-bottom: 0px;
+    font-size: 40px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.gera-senha{
+    margin: 20px 0;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.div-two{
+    background-color: white;
+    padding: 20px;
+    font-size: 1.3em;
+}
+
+input{
+    width: 35px;
+    height: 25px;
+    margin: 5px 0;
+}
+
+button{
+    margin: 20px 0;
+    width: 110px;
+    height: 30px;
+    font-size: 0.8em;
+}
